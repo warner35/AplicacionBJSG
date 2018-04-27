@@ -1,0 +1,16 @@
+.black{
+    background-color: darkolivegreen;
+    color:black;
+}
+.component2{
+    background:blue;
+    color:white;
+    padding: 20px;
+}
+.btn{
+    padding: 15px;
+    color:red;
+    background: brown;
+    display: block;
+    margin: 3px;
+}
